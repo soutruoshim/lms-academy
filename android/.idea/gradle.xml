@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.6/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_downloader-1.8.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappwebview-5.4.3+7/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+2/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.17/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.8/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.9.3/android" />
+            <option value="$PROJECT_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/zoom-1.0.3+5/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
